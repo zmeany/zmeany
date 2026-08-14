@@ -1,10 +1,10 @@
 # Hey there! 👋
 
-I'm a developer from Germany who likes to build things, try out new ideas and see where they lead.
+I'm a developer from Germany who enjoys turning ideas into real projects.
 
-I spend most of my time working on software, websites, interfaces and game-related projects. I'm not focused on just one technology
+I work across software development, web technologies, interfaces and game-related projects. I like building things from the ground up, understanding how they work and experimenting with different technologies along the way.
 
-I enjoy exploring different areas of development and seeing what I can create with them.
+My interests also extend beyond pure software development — from operating systems, computer networks and hardware to databases, embedded systems and electronics.
 
 ---
 
@@ -12,19 +12,24 @@ I enjoy exploring different areas of development and seeing what I can create wi
 
 **Languages**
 
-`C#` `C++` `Python` `Lua` `HTML` `CSS` `JavaScript` `PHP` `SQL`
+`C` `C++` `C#` `Python` `Lua` `HTML` `CSS` `JavaScript` `PHP` `SQL`
 
-**Tools & IDEs**
+**Tools, IDEs & Simulation**
 
-`Visual Studio` `Visual Studio Code` `Git` `GitHub` `Roblox Studio`
+`Visual Studio` `Visual Studio Code` `Git` `GitHub` `Cisco Packet Tracer`
 
 ---
 
-## What I Build
+## 💻 Areas I Work With
 
-*  Software & desktop applications
-*  Websites & web interfaces
-*  Game-related projects
-*  Bots & automation
-*  Custom tools and utilities
-*  Experimental projects and ideas
+* Software & desktop applications
+* Web development & interfaces
+* Game-related projects
+* Bots & automation
+* Databases & SQL
+* Computer networks & operating systems
+* Embedded systems & microcontrollers
+* Arduino & Raspberry Pi projects
+* Hardware & PC systems
+* Electronics & digital systems
+* Software engineering
