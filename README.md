@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**zmeany/zmeany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hey there! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a german developer who enjoys **building, experimenting and turning ideas into real projects.**
+
+I'm mainly interested in **software development, web development, UI design/game design and automation**.
+
+My main technologies are **C#, C++, Python, Lua, HTML, CSS, JavaScript, PHP and SQL**.
+
+I mainly work with **Visual Studio Code** and **Visual Studio**, alongside tools like **Git, GitHub and MySQL Workbench**.
+
+### 🚀 What I enjoy
+
+* Software & application development
+* Web development
+* UI / UX & modern interfaces
+* Automation & tooling
+* Databases & SQL
+* Learning new technologies
+* Turning ideas into projects
+
+I enjoy **solving problems, experimenting with new ideas and constantly improving my skills.**
+
+> **Build. Learn. Improve.**
+
