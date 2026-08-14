@@ -10,14 +10,13 @@ My interests also extend beyond pure software development — from operating sys
 
 ## 🛠️ Tools & Tech
 
-**Programming Languages**
+**Programming Languages:**
 `C` `C++` `C#` `Python` `Lua`
 
-**Web & Databases**
+**Web & Databases:**
 `HTML` `CSS` `JavaScript` `PHP` `SQL` `MySQL`
 
-**Tools, IDEs & Simulation**
-
+**Tools, IDEs & Simulation:**
 `Visual Studio` `Visual Studio Code` `Git` `GitHub` `Cisco Packet Tracer`
 
 ---
