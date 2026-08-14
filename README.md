@@ -10,9 +10,11 @@ My interests also extend beyond pure software development — from operating sys
 
 ## 🛠️ Tools & Tech
 
-**Languages**
+**Programming Languages**
+`C` `C++` `C#` `Python` `Lua`
 
-`C` `C++` `C#` `Python` `Lua` `HTML` `CSS` `JavaScript` `PHP` `SQL`
+**Web & Databases**
+`HTML` `CSS` `JavaScript` `PHP` `SQL` `MySQL`
 
 **Tools, IDEs & Simulation**
 
