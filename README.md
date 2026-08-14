@@ -10,7 +10,7 @@ My main technologies are **C#, C++, Python, Lua, HTML, CSS, JavaScript, PHP and 
 
 I mainly work with **Visual Studio Code** and **Visual Studio**, alongside tools like **Git, GitHub and MySQL Workbench**.
 
-### 🚀 What I enjoy
+### What I enjoy:
 
 * Software & application development
 * Web development
@@ -21,6 +21,4 @@ I mainly work with **Visual Studio Code** and **Visual Studio**, alongside tools
 * Turning ideas into projects
 
 I enjoy **solving problems, experimenting with new ideas and constantly improving my skills.**
-
-> **Build. Learn. Improve.**
 
