@@ -1,24 +1,17 @@
+## Hey there! 👋
 
+I'm a developer from Germany who likes to build things, try out new ideas and see where they lead.
 
-# Hey there! 👋
+I spend most of my time working on software, websites, interfaces and game-related projects.
 
-I'm a german developer who enjoys **building, experimenting and turning ideas into real projects.**
+I work with C#, C++, Python, Lua, HTML, CSS, JavaScript, PHP and SQL and mainly use Visual Studio Code and Visual Studio.
 
-I'm mainly interested in **software development, web development, UI design/game design and automation**.
+A few things about me
+💻 I enjoy creating things from scratch
+🎨 I care a lot about clean and modern design
+🧩 I like figuring out how things work
+⚙️ I enjoy building tools and experimenting with ideas
+🧠 Always learning something new
+🚀 Most of my projects start with a simple idea and grow from there
 
-My main technologies are **C#, C++, Python, Lua, HTML, CSS, JavaScript, PHP and SQL**.
-
-I mainly work with **Visual Studio Code** and **Visual Studio**, alongside tools like **Git, GitHub and MySQL Workbench**.
-
-### What I enjoy:
-
-* Software & application development
-* Web development
-* UI / UX & modern interfaces
-* Automation & tooling
-* Databases & SQL
-* Learning new technologies
-* Turning ideas into projects
-
-I enjoy **solving problems, experimenting with new ideas and constantly improving my skills.**
-
+I'm not focused on just one technology — I like exploring different areas of development and seeing what I can create with them.
