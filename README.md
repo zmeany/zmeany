@@ -29,7 +29,6 @@ My interests also extend beyond pure software development — from operating sys
 * Databases & SQL
 * Computer networks & operating systems
 * Embedded systems & microcontrollers
-* Arduino & Raspberry Pi projects
 * Hardware & PC systems
 * Electronics & digital systems
 * Software engineering
